@@ -103,4 +103,3 @@ I'm trying to be responsive to any new issues, you can create github issue or co
 
 Skuber chat on discord: https://discord.gg/byEh56vFJR 
 
-Email: hagay3@gmail.com
